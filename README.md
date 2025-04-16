@@ -21,6 +21,14 @@ I have hands-on experience with the following technologies and tools:
 - **Spring Boot**: Designing robust, enterprise-grade Java-based backend services.
 - **Firebase**: Implementing serverless architectures, real-time databases, and authentication.
 
+### Database Management
+- **Relational Databases**:
+  - **MySQL**: Designing and optimizing structured databases for high-performance applications.
+  - **PostgreSQL**: Managing complex, scalable relational databases with advanced querying capabilities.
+- **NoSQL Databases**:
+  - **MongoDB**: Building flexible, document-based databases for dynamic applications.
+  - **Redis**: Leveraging in-memory data stores for caching, real-time analytics, and high-speed data processing.
+
 ### DevOps & Containerization
 - **Docker**: Containerizing applications for consistent development and deployment.
 - **Kubernetes**: Orchestrating containers for scalable and reliable production environments.
@@ -35,6 +43,7 @@ I have hands-on experience with the following technologies and tools:
 Check out my GitHub repositories to see some of my work, including:
 - Cross-platform mobile apps built with Flutter.
 - Full-stack web applications using React, Node.js, and Spring Boot.
+- Database-driven applications with MongoDB and MySQL for efficient data management.
 - Containerized microservices deployed with Docker and Kubernetes.
 
 ## Get in Touch
