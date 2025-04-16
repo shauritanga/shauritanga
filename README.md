@@ -40,8 +40,8 @@ Check out my GitHub repositories to see some of my work, including:
 ## Get in Touch
 I'm open to freelance opportunities, collaborations, or full-time roles. Let's build something amazing together!
 
-- **Email**: [shauritangaathanas@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/athanas-shauritanga-5476441b8]
+- **Email**: shauritangaathanas@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/athanas-shauritanga-5476441b8
 - **GitHub**: You're already here! Explore my repositories below.
 
 Feel free to reach out if you have a project in mind or want to discuss potential opportunities. Let's create the future of software, one line of code at a time!
